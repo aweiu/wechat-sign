@@ -12,7 +12,7 @@ weChatSign(jsapiTicket, url)
 ```
 返回：
 ```
- // something like this
+// something like this
 {
   jsapi_ticket: 'jsapi_ticket',
   nonceStr: '82zklqj7ycoywrk',
