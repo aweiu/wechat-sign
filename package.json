@@ -1,6 +1,16 @@
 {
   "name": "wechat-sign",
-  "version": "1.0.0",
+  "version": "1.0.1",
+  "description": "微信公众平台签名工具",
+  "keywords": [
+    "wexin",
+    "wx",
+    "wechat",
+    "wechat-signature",
+    "wx-signature",
+    "wexin-signature",
+    "jsApi"
+  ],
   "author": {
     "name": "余阿伟"
   },
@@ -9,6 +19,7 @@
     "type": "git",
     "url": "https://github.com/aweiu/wechat-sign.git"
   },
+  "license": "ISC",
   "dependencies": {
     "jssha": "^1.5.0"
   }
