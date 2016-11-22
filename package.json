@@ -1,6 +1,6 @@
 {
   "name": "wechat-sign",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "微信公众平台签名工具",
   "keywords": [
     "wexin",
@@ -9,7 +9,8 @@
     "wechat-signature",
     "wx-signature",
     "wexin-signature",
-    "jsApi"
+    "jsApi",
+    "微信"
   ],
   "author": {
     "name": "余阿伟"
